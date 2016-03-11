@@ -1,0 +1,6 @@
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\LibraryProjWeek10\LibraryProjWeek10\bin\Debug\LibraryProjWeek10.exe.config
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\LibraryProjWeek10\LibraryProjWeek10\bin\Debug\LibraryProjWeek10.exe
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\LibraryProjWeek10\LibraryProjWeek10\bin\Debug\LibraryProjWeek10.pdb
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\LibraryProjWeek10\LibraryProjWeek10\obj\Debug\LibraryProjWeek10.csprojResolveAssemblyReference.cache
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\LibraryProjWeek10\LibraryProjWeek10\obj\Debug\LibraryProjWeek10.exe
+C:\Users\We Can Code IT\Desktop\WeCanCodeIT\LibraryProjWeek10\LibraryProjWeek10\obj\Debug\LibraryProjWeek10.pdb
